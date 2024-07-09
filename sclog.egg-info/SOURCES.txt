@@ -1,0 +1,7 @@
+sclog.py
+setup.py
+sclog.egg-info/PKG-INFO
+sclog.egg-info/SOURCES.txt
+sclog.egg-info/dependency_links.txt
+sclog.egg-info/entry_points.txt
+sclog.egg-info/top_level.txt
